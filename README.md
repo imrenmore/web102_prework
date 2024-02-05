@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![Sea Monster](https://github.com/imrenmore/web102_prework/assets/98141213/571ce41b-ec30-4ab2-be59-d4e955dd7870)
 
 <img src='https://i.imgur.com/Td9U8lT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
